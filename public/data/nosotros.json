@@ -1,0 +1,30 @@
+[
+    { 
+        "id": 3, 
+        "nombre": "Nora Perez", 
+        "puesto": "CEO", 
+        "email":  "nora@mail.com",
+        "foto": "/images/mujer1.webp"
+    },
+    { 
+        "id": 5, 
+        "nombre": "Mario Lopez", 
+        "puesto": "CTO", 
+        "email": "mario@mail.com",
+        "foto": "/images/hombre1.jpg"
+    },
+    {
+        "id": 8, 
+        "nombre": "Lucas Alvarez", 
+        "puesto": "UX Designer", 
+        "email":  "lucas@mail.com",
+        "foto":   "/images/hombre2.jpg"
+    },
+    {
+        "id": 9, 
+        "nombre": "Nadia Suarez", 
+        "puesto": "Developer", 
+        "email":  "nadia@mail.com",
+        "foto": "/images/mujer2.jpg"
+    }
+]

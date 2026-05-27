@@ -1,0 +1,29 @@
+[
+    { 
+        "id": 1, 
+        "nombre": "Auriculares", 
+        "precio": 12000, 
+        "stock": 15,
+        "imagen":"./images/headsets.jpg",
+        "destacado": true
+    },
+    { 
+        "id": 2, 
+        "nombre": "Consolas", 
+        "precio": 450000, 
+        "stock": 25,
+        "imagen":"./images/consolas.jpg",
+        "destacado": false
+    },
+    {
+        "id": 4, 
+        "nombre": "Sillas Gamer", 
+        "precio": 150000, 
+        "stock": 50,
+        "imagen":"./images/sillagamer.jpg",
+        "destacado": false
+    }
+]
+
+
+
